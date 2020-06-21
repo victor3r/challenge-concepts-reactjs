@@ -38,4 +38,4 @@ Aplicação que irá armazenar repositórios do portfólio. Backend já desenvol
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja a página da [LICENÇA](https://opensource.org/licenses/MIT) para mais detalhes.
